@@ -1,0 +1,75 @@
+*{
+    background-color: #bfc8c7 ;
+    font-family: Arial, Helvetica,Verdana, sans-serif;
+}
+body{
+  padding: 20px;
+}
+p{
+  padding: 3px;
+  margin: 0px;
+}
+.heading{
+    background-color:#e2e8e6;
+    padding: inherit;
+}
+.para-1{
+  background-color: #2888ca;
+  color:#f2dcec ;
+}
+.para-2{
+  background-color:#309ad5;
+  color:#f2dcec ;
+}
+.para-3{
+  background-color:#35a8dd;
+  color:#f2dcec ;
+}
+.para-4{
+ background-color:#40b3e4;
+ color:#f2dcec ;
+}
+.para-5{
+background-color:#58c1eb;
+color:#f2dcec ;
+}
+.para-6{
+background-color:#6eccef;
+color:#f2dcec ;
+}
+.para-7{
+background-color: #8fd5f1;
+color:#f2dcec ;
+}
+.para-8{
+background-color:#37bd85f2;
+color:#f2dcec ;
+}
+.para-9{
+background-color: #fcb5d2;
+color:#f2dcec ;
+}
+.para-10{
+  background-color: #fc9ec8;
+  color:#f2dcec ;
+}
+.para-11{
+  background-color: #fd8dbb;
+  color:#f2dcec;
+}
+.para-12{
+background-color: #fd8abb;
+color:#f2dcec ;
+}
+.para-13{
+ background-color: #fd7ab2;
+ color:#f2dcec ;
+}
+.para-14{
+  background-color: #fd69a1;
+  color:#f2dcec ;
+}
+.para-15{
+  background-color:#fe4589;
+  color:#f2dcec ;
+}
